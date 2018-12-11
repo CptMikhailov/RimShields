@@ -1,1 +1,0 @@
-A mod that adds vanilla-like shields to RimWorld.
