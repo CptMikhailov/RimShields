@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModMetaData>
+    <name>RimShields</name>
+    <author>CPT Mikhailov</author>
+    <targetVersion>1.0.0</targetVersion>
+    <description>Adds vanilla-like shields to RimWorld using Jecrell's JecsTools framework.</description>
+</ModMetaData>

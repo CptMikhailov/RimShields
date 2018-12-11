@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>RimShields</identifier>
+  <version>0.1.0</version>
+  <dependencies>
+    <li>JecsTools</li>
+  </dependencies>
+  <incompatibleWith />
+  <loadAfter>
+    <li>HugsLib</li>
+    <li>JecsTools</li>
+  </loadAfter>
+  <manifestUri></manifestUri>
+  <downloadUri></downloadUri>
+</Manifest>
