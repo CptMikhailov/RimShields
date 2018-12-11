@@ -10,6 +10,6 @@
     <li>HugsLib</li>
     <li>JecsTools</li>
   </loadAfter>
-  <manifestUri></manifestUri>
-  <downloadUri></downloadUri>
+  <manifestUri>https://raw.githubusercontent.com/CptMikhailov/RimShields/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/CptMikhailov/RimShields/releases</downloadUri>
 </Manifest>
