@@ -43,6 +43,7 @@
     <comps>
       <li Class="PawnShields.CompProperties_Shield">
         <!-- Rendering systems -->
+        <useColoredVersion>true</useColoredVersion>
         <wieldedGraphic>
           <graphicClass>Graphic_Multi</graphicClass>
           <texPath>Things/Simple/Shield_Simple</texPath>
