@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Patch>
   <Operation Class="PatchOperationAttributeSet">
-    <xpath>/Defs/ThingDef[defName = "BaseMeleeWeapon_Blunt_Quality"]</xpath>
+    <xpath>/Defs/ThingDef[@Name="BaseMeleeWeapon_Blunt_Quality"]</xpath>
     <attribute>ParentName</attribute>
     <value>BaseMeleeWeapon_Blunt</value>
   </Operation>
